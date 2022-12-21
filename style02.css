@@ -1,0 +1,249 @@
+.box1{
+    position: absolute;
+width: 1440px;
+height: 87px;
+left: 0px;
+top: 0px;
+background: #7E4D9F;
+}
+.h1{
+
+position: absolute;
+width: 103px;
+height: 33px;
+left: 107px;
+top: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+
+color: #FFFFFF;
+}
+.h2{
+    position: absolute;
+width: 103px;
+height: 33px;
+left: 249px;
+top: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+
+color: rgba(255, 255, 255, 0.65);
+}
+
+.h3{
+    position: absolute;
+width: 103px;
+height: 33px;
+left: 391px;
+top: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+
+color: rgba(255, 255, 255, 0.65);
+
+}
+.h4{
+    position: absolute;
+width: 103px;
+height: 33px;
+left: 533px;
+top: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+
+color: rgba(255, 255, 255, 0.65);
+}
+
+.box2{
+
+position: absolute;
+width: 47px;
+height: 63px;
+left: 21px;
+top: 12px;
+
+background: url(440px-UPLogo);
+}
+
+.p1{
+
+position: absolute;
+width: 910px;
+height: 59px;
+left: 266px;
+top: 659px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 59px;
+
+color: #000000;
+}
+.b1{
+    position: absolute;
+width: 314px;
+height: 29px;
+left: 466px;
+top: 286px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 29px;
+
+color: #000000;
+}
+.b2{
+    position: absolute;
+width: 407px;
+height: 29px;
+left: 466px;
+top: 323px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 29px;
+
+color: #000000;
+
+}
+.b3{
+    position: absolute;
+width: 298px;
+height: 29px;
+left: 466px;
+top: 362px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 29px;
+
+color: #000000;
+}
+.b4{
+    position: absolute;
+width: 710px;
+height: 29px;
+left: 466px;
+top: 401px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 29px;
+
+color: #000000;
+
+}
+
+.box3{
+    position: absolute;
+width: 268.98px;
+height: 168px;
+left: 196.17px;
+top: 262px;
+
+background: url(lisa.png);
+}
+
+.b5{
+    position: absolute;
+width: 115px;
+height: 29px;
+left: 257px;
+top: 454px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 29px;
+
+color: #000000;
+}
+.box4{
+    position: absolute;
+width: 1083px;
+height: 324px;
+left: 178px;
+top: 211px;
+
+background: #D3D3D3;
+border-radius: 15px;
+}
+
+.pp{
+    position: absolute;
+width: 183px;
+height: 47px;
+left: 315px;
+top: 805px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 47px;
+
+color: #000000;
+}
+.pp1{
+    position: absolute;
+width: 113px;
+height: 47px;
+left: 976px;
+top: 805px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 47px;
+
+
+color: #000000;
+}
+.jj1{
+    position: absolute;
+width: 362px;
+height: 107px;
+left: 226px;
+top: 775px;
+
+background: #FFDBAF;
+border-radius: 15px;
+}
+.jj{
+    position: absolute;
+width: 362px;
+height: 107px;
+left: 226px;
+top: 775px;
+
+background: #FFDBAF;
+border-radius: 15px;
+}
